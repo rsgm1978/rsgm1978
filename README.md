@@ -1,6 +1,6 @@
-Hola mi nombre es <br><h1 class="headding element" color="blue">Ramiro Sebastian Gordillo Morales</h1></br>
+Hola mi nombre es <br><h1 class="headding element">Ramiro Sebastian Gordillo Morales</h1></br>
 
-<h2>He realizado mis estudios en:</h2>
+<h2 class="text-underline>He realizado mis estudios en:</h2>
 <div>
                         <li>Secundarios (bachillerato/Oficial de la reserva ppal. de la Armada Argentina) en el Liceo Naval Militar, con una formación académica sólida y amplia, la cual brinda la oportunidad de acceder a diferentes casas de altos estudios del país he incluso del mundo.</li>
                         <li> 3 años de 4 en la Escuela Naval Militar de la Armada Argentina, estudios inconclusos, pero una experiencia imborrable donde los conocimientos y capacidades adquiridas me acompañan aún hoy. En lo que respecta a la cuadricula académica de dicha institución es comparable a la carrera de ingieneria de la universidad nacional de La Plata (de hecho una vez egresado se puede convalidar muchas materias de hasta un equivalente de 3 años de 6 en ingenieria).*Realizado en institución pública.</li>
