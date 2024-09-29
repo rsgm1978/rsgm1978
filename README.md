@@ -8,8 +8,8 @@ Hola mi nombre es <br><h1 class="headding element">Ramiro Sebastian Gordillo Mor
                         <li> Técnico Superior en Seguridad Ciudadana (3 años, Policia de la Provincia de Buenos Aires). Obteniendo el gardo de oficial, preparación para ejercer como jefe en diferentes cargos, en esta institución ostentaba el grado de Oficial Inspector.*Realizado en institución pública</li>
                         <li> Negociador de situaciones de crisis. Siendo funcionario de la Policia de la Provincia de Buenos Aires, Argentina, realicé esta especialidad dentro de la Fuerzas Especiales HALCON de dicha Institución, ejerciéndola durante 5 años. Realizado en una institución pública.</li>
                         <li> Administrador de la plataforma SalesForces.</li>
-                        <li> Administrador de Az-104. No realice certificacion.</li>
-                        <li> Actualmente estudio Full Stack Developer.</li> 
+                        <li> Administrador de Az-104. No realice certificación.</li>
+                        <li> Actualmente estudio Full Stack Developer en <a href="https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiRpb6x-uiIAxWMNwYAHVqoFlEYABAAGgJ3cw&co=1&ase=2&gclid=CjwKCAjw9eO3BhBNEiwAoc0-jVej2OgOVY58nLtptKdOkHH-D3TeWhzMRPEkGBNKUYd7_5c_fMiQ7RoCKDgQAvD_BwE&ohost=www.google.com&cid=CAESVeD2Phzqmx8AtcXt2XSqb7IRdesktRvG9X56zWCk4GrlQ2cuvWcCaEzCOd28nqHsdm1-qFYnjfulYsr91vjYppmpaLG6GxYVtJBm0lpf_34y8X6pO9g&sig=AOD64_1lJlIml4pN3NkKfOdIn7Iai2IbFg&q&nis=4&adurl&ved=2ahUKEwjqu7mx-uiIAxV_V6QEHYnZEGoQ0Qx6BAgZEAE">  4Geeks Academy</a>.</li> 
   *realizado en institución pública implica una oposición.
 </div>                        
 <h2>Sobre mi:</h2>
