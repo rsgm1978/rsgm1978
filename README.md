@@ -1,4 +1,4 @@
-Hola mi nombre es Ramiro Sebastian Gordillo Morales...
+Hola mi nombre es <br>Ramiro Sebastian Gordillo Morales</br>
 
 He realizado mis estudios en:
                             *secundarios (bachillerato/Oficial de la reserva ppal. de la Armada Argentina) en el Liceo Naval Militar, con una formación académica sólida y amplia, la cual brinda la oportunidad de 
