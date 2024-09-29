@@ -18,6 +18,6 @@ Hola mi nombre es <br><h1 class="headding element" color="blue">Ramiro Sebastian
 <h2>Espectativas:</h2>
             Poder encontrar mi lugar en este mundo, cercano al backend, me siento muy cómodo con Python y SQL.
 
-<h3>Contacto:<a ref="https://www.linkedin.com/feed/?trk=sem-ga_campid.18146679037_asid.140850334975_crid.694860685343_kw.linkedin_d.c_tid.kwd-148086543_n.g_mt.e_geo.1005423" rel="nofolow"> LinkedIn </a></h3>
+<h3>Contacto:</h3><a ref="https://www.linkedin.com/feed/?trk=sem-ga_campid.18146679037_asid.140850334975_crid.694860685343_kw.linkedin_d.c_tid.kwd-148086543_n.g_mt.e_geo.1005423" rel="nofolow"> LinkedIn </a>
 
 
