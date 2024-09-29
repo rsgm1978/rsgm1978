@@ -18,6 +18,4 @@ Hola mi nombre es <br><h1 class="headding element">Ramiro Sebastian Gordillo Mor
 <h2>Espectativas:</h2>
             Poder encontrar mi lugar en este mundo, cercano al backend, me siento muy cómodo con Python y SQL.
 
-<h3>Contacto:</h3><a ref="https://www.linkedin.com/in/ramiro-sebasti%C3%A1n-gordillo-morales-45138892"> LinkedIn </a><a href="https://www.linkedin.com/in/hector-chocobar/" rel="nofollow">LinkedIn</a>
-
-
+<h3>Contacto:</h3><a href="https://www.linkedin.com/in/ramiro-sebasti%C3%A1n-gordillo-morales-45138892"> LinkedIn </a>
